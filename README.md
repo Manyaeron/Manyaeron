@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <
 <img src= "https://github-readme-stats.vercel.app/api?username=Manyaeron&theme=vue&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manyaeron&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manyaeron">
